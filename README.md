@@ -7,7 +7,7 @@
 
 ## 🔗 Live Site
 
-👉 (여기에 링크 입력)
+👉 ([한국수자원공사 클론코딩 바로가기](https://cook2ie.github.io/korea-water/))
 
 ---
 
@@ -48,4 +48,5 @@ position + left 좌표 기반 정렬 → left: 50% + transform 구조로 개선
 ---
 
 ## 📸 Preview
-(여기에 이미지 추가)
+<img width="100%" alt="image"src="https://github.com/user-attachments/assets/1ae8b6be-9f8b-4c8a-bd16-7c320d379d63" />
+
