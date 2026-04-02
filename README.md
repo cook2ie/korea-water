@@ -48,5 +48,6 @@ position + left 좌표 기반 정렬 → left: 50% + transform 구조로 개선
 ---
 
 ## 📸 Preview
-<img width="100%" alt="image"src="https://github.com/user-attachments/assets/1ae8b6be-9f8b-4c8a-bd16-7c320d379d63" />
+<img width="3827" height="1896" alt="image" src="https://github.com/user-attachments/assets/06a4a41a-27ec-4760-93a2-ee4d13c45d2a" />
+
 
