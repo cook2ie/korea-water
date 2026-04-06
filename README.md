@@ -7,7 +7,7 @@
 
 ## 🔗 Live Site
 
-👉 ([한국수자원공사 클론코딩 바로가기](https://cook2ie.github.io/korea-water/))
+👉 [한국수자원공사 클론코딩 바로가기](https://cook2ie.github.io/korea-water/)
 
 ---
 
